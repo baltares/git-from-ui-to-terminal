@@ -1,3 +1,5 @@
+(readme modificado)
+
 # Learn to use Git Terminal by example
 
 If you are used to work with GUI tool and want to learn the basics of working using the terminal, keep on reading.
